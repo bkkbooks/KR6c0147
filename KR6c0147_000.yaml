@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6c0147/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: 其他, offset: 0, content: 般若心經疏, id: KR6c0147_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 般若心經略疏
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X26/X26n0528.xml
+    old_id: X26n0528
+hash: sha256:9290600b2ad8f857d00d53eb8c78bdaa00a3504523973170cb70a48ac657d1d0

@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6c0147/X/v1
+canonical_location: https://kanripo.org/bkk/KR6c0147/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 般若心經略疏
+  identifiers:
+    krp: KR6c0147
+    cbeta: X26n0528
+    cbeta_old_id: X26n0528
+    authorityid: CA0000191
+    json_key: X0528
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X26/X26n0528.xml
+    old_id: X26n0528
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0147_000-X.yaml, hash: 'sha256:9290600b2ad8f857d00d53eb8c78bdaa00a3504523973170cb70a48ac657d1d0'}
+  - {seq: 1, filename: KR6c0147_001-X.yaml, hash: 'sha256:4364e4712e6646ff0a011e38eb8e878eeea2c3167c47acaac6100d4e3bc546d9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0147_000-X.markers.yaml, hash: 'sha256:2cc26900718976ee33cac39c98aac165b26ceb2c356e24acc4ae7b056300fb10'}
+  - {seq: 1, role: markers, filename: assets/KR6c0147_001-X.markers.yaml, hash: 'sha256:82f72d9461ddd01b53be53eba9ce6dd764cfb11d8f097e95ef00ad7e9bea3ae7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0147_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 般若心經疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0147_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2168
+  label: 般若心經疏
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0147_X_001-mulu-1
+    span:
+    - body
+    - 2007
+    - 2007
+  label: No. 528-A
+  type: mulu
+  level: 1
+hash: sha256:dae95810f201b6cdaf679308a0fca92219b84938c5eff56e5d6c99e54fef2216
